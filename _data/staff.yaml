@@ -4,11 +4,6 @@
   description: I am a junior CS major. Please include your favorite color, mother's maiden name, and social security number when signing up for this course.
   style: "height: 200px;"
 
-- name: Douglas Wong
-  title: Head Facilitator
-  img: images/ldw.png
-  description: I am a super senior CS major from Hong Kong. When I'm not working I enjoy tennis, table tennis and kpop.
-
 - name: Ian McDonald
   title: Facilitator
   img: images/ian.jpg
